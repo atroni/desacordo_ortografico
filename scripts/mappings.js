@@ -1,4 +1,5 @@
 var mappings = {
+	'contato': 'contacto',	
 	'infecionada': 'infeccionada',
 	'desafetámos': 'desafectámos',
 	'detetava': 'detectava',
